@@ -2,6 +2,18 @@ import React from 'react';
 import ReactDOM from 'react-dom/client'
 
 
+/**
+ * Header 
+ *  - logo
+ *  - Nav Items
+ * Body 
+ *  - Search
+ *  - 
+ * Footer
+ *  -
+ *  -
+ */
+
 //JSX is a HTML or XML like syntax not HTMl in JS
 //React Element
 const greet = (<span>hello </span>);
